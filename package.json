@@ -8,6 +8,9 @@
   },
   "author": "uponci",
   "license": "MIT",
+  "bin" : {
+    "github-activity" : "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/derealthink/github-activity-cli-app.git"
