@@ -1,0 +1,25 @@
+{
+  "name": "git_actvity_cli",
+  "version": "1.0.0",
+  "description": "cli app to show someone's git acitivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uponci",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/derealthink/github-activity-cli-app.git"
+  },
+  "keywords": [
+    "cli",
+    "app",
+    "github",
+    "activity"
+  ],
+  "bugs": {
+    "url": "https://github.com/derealthink/github-activity-cli-app/issues"
+  },
+  "homepage": "https://github.com/derealthink/github-activity-cli-app#readme"
+}
