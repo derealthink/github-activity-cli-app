@@ -9,7 +9,7 @@
   "author": "uponci",
   "license": "MIT",
   "bin" : {
-    "github-activity" : "./index.js"
+    "git-flex" : "./index.js"
   },
   "repository": {
     "type": "git",
